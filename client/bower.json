@@ -7,7 +7,7 @@
     "appfy-error": "git+https://github.com/GUstavoLimaMaciel/appfy-error",
     "morris.js": "0.5.x",
     "highlightjs": "~8.5.0",
-    "appfy-wiki": "*",
+    "appfy-wiki": "https://github.com/GUstavoLimaMaciel/appfy-wiki",
     "angular-socialshare": "angularjs-socialshare#^2.2.5",
     "angulartics": "^1.1.2",
     "angulartics-google-analytics": "^0.2.1"
