@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.3.0",
   "dependencies": {
-    "appfy": "latest",
+    "appfy": "git+https://github.com/GUstavoLimaMaciel/appfy",
     "appfy-error": "git+https://github.com/GUstavoLimaMaciel/appfy-error",
     "morris.js": "0.5.x",
     "highlightjs": "~8.5.0",
